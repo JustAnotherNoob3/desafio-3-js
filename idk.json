@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "not",
+        "description": "dddd",
+        "price": 20,
+        "thumbnail": "Sin imagen",
+        "code": "wwwwww",
+        "stock": 25
+    },
+    {
+        "id": 2,
+        "title": "new",
+        "description": "dddd",
+        "price": 20,
+        "thumbnail": "Sin imagen",
+        "code": "not code",
+        "stock": 25
+    },
+    {
+        "id": 3,
+        "title": "producto prueba",
+        "description": "Este es un producto prueba",
+        "price": 200,
+        "thumbnail": "Sin imagen",
+        "code": "abc123",
+        "stock": 25
+    },
+    {
+        "id": 4,
+        "title": "crazy",
+        "description": "dddd",
+        "price": 20,
+        "thumbnail": "Sin imagen",
+        "code": "we",
+        "stock": 25
+    },
+    {
+        "id": 5,
+        "title": "plushie",
+        "description": "dddd",
+        "price": 20,
+        "thumbnail": "Sin imagen",
+        "code": "m",
+        "stock": 25
+    },
+    {
+        "id": 6,
+        "title": "is this",
+        "description": "dddd",
+        "price": 20,
+        "thumbnail": "Sin imagen",
+        "code": "not real",
+        "stock": 25
+    },
+    {
+        "id": 7,
+        "title": "title",
+        "description": "dddd",
+        "price": 20,
+        "thumbnail": "Sin imagen",
+        "code": "code",
+        "stock": 25
+    },
+    {
+        "id": 8,
+        "title": "not title",
+        "description": "dddd",
+        "price": 20,
+        "thumbnail": "Sin imagen",
+        "code": "not code no",
+        "stock": 25
+    },
+    {
+        "id": 9,
+        "title": "hehehehaw",
+        "description": "dddd",
+        "price": 20,
+        "thumbnail": "Sin imagen",
+        "code": "sec",
+        "stock": 25
+    },
+    {
+        "id": 10,
+        "title": "phew",
+        "description": "dddd",
+        "price": 20,
+        "thumbnail": "Sin imagen",
+        "code": "seeec",
+        "stock": 25
+    }
+]
