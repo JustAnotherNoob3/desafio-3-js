@@ -13,7 +13,9 @@ app.get("/", async (req, res) => {
 app.get("/products", async (req, res) => {
     let limit = req.query.limit;
     let productArray = productManager.getProducts();
-    if(isNaN(limit)) return res.send(productArray);
+    if(!limit || isNaN(limit)){
+        return res.send(productArray);
+    }
     let limitArray = productArray.slice(0,Number(limit));
     res.send(limitArray);
 });
